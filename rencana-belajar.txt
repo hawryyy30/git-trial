@@ -4,3 +4,4 @@ Rencana belajar Harry
 -Memulai javascript: basic dan function
 -Mengaplikasikan javascript ke dalam website
 -Saya ingin konsisten berolahraga
+-Saya ingin bisa konsisten baca buku
