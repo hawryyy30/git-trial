@@ -3,3 +3,4 @@ Rencana belajar Harry
 -Mendalami framework bootstrap
 -Memulai javascript: basic dan function
 -Mengaplikasikan javascript ke dalam website
+-Saya ingin bisa konsisten baca buku
