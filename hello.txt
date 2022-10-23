@@ -1,2 +1,3 @@
 Hello saya Harry saya sedang belajar menggunakan github!
 Oh, iya semoga saya bisa menggunakan vcs ini dengan lebih optimal
+Saya akan lebih aktif menggunakan vcs ini
