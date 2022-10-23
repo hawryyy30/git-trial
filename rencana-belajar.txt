@@ -1,0 +1,5 @@
+Rencana belajar Harry
+-Konsisten latihan coding 1 jam per hari
+-Mendalami framework bootstrap
+-Memulai javascript
+-Mengaplikasikan javascript ke dalam website
